@@ -1,0 +1,47 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "juas juas",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancelar",
+            "nada"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "ayudame",
+            "ayuda"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "juasjuasIntent",
+          "slots": [],
+          "samples": [
+            "jajatl",
+            "ja ja",
+            "juas juas",
+            "hazle como el bromas",
+            "joker",
+            "risa",
+            "reproducir risa",
+            "riete"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}
